@@ -1,0 +1,1396 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/RUBEL/Documents/cseju.png
+	rotateOrigin center
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+Request for Proposal(RFP)
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\series bold
+\size large
+Date: 10th March 2018
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Dear Sir,
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size large
+Subject:
+\series default
+ RFP for 
+\series bold
+Enterprise Resource Planning System (ERP Solution)
+\series default
+ for Jahangirnagar University, Savar, Dhaka - 1342.
+\end_layout
+
+\begin_layout Standard
+
+\size large
+You are requested to submit a proposal for “
+\series bold
+Enterprise Resource Planning System (ERP Solution)
+\series default
+ for Jahangirnagar University, Savar, Dhaka - 1342.”, as per enclosed Terms
+ of Reference (TOR).
+
+\size default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size large
+2.
+ To enable you to submit a proposal, attached are:
+\end_layout
+
+\begin_layout Standard
+
+\size large
+i.
+ Instructions ofAuthority…..(Annex I)
+\end_layout
+
+\begin_layout Standard
+
+\size large
+ii.
+ General Conditions of Contract........(Annex II) 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+iii.
+ Terms of Reference (TOR)….
+ Annex III) 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+iv.
+ Proposal Submission Form ......(Annex IV) 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+v.
+ Price Schedule.(Annex V)
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size large
+3.
+
+\series default
+ Your offer comprising of technical proposal and financial proposal, in
+ separate envelopes, should be dropped in the Bid Box the following address
+ no later than 
+\series bold
+15th March 2018, at 12.30.PM
+\series default
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+Jahangirnagar University, 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+CSE department ( 1st Floor))Savar, Dhaka.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+e-mail: jucse@juniv.edu
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size large
+4.
+
+\series default
+ If you request additional information, we would endeavor to provide information
+ expeditiously, but any delay in providing such information will not be
+ considered a reason for extending the submission date of your proposal.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size large
+5.
+
+\series default
+ You are requested to acknowledge receipt of this letter and to indicate
+ whether or not you intend to submit a proposal.
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\size large
+Yours sincerely, 
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\size large
+RUBEL sheikh
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\size large
+Procurement Unit
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\series bold
+\size large
+Annex II
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+Instructions of Authority
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+1.
+ DESCRIPTION AND OVERVIEW OF RFP 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Jahangirnagar University CSE Department is soliciting proposals in response
+ to this Request for Proposal (RFP) from qualified vendors for the acquisition
+ of a comprehensive and integrated Enterprise Resource Planning System.
+ The University’s vision is an enterprise system to support leading practices
+ in Financial Management, Human Capital Management and Student Administration
+ for all University operations and activities.
+ Implementation and integration services will be included in the procurement.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+The project goals and objectives of the University are to: 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Acquire a modern ERP solution that effectively processes the volume and
+ type of transactions required by the University; 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Improve the efficiency of administrative operations;
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Implement user-friendly intuitive systems across the institution;
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Expand and simplify management access to detailed information; 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Provide smooth and seamless integration between the new ERP solution and
+ other systems used by the campus community;
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Take advantage of continuing advancements in functionality and technology
+ that would enable future improvements in business and administrative practices.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+From a technology viewpoint, the University’s vision is a cloud-based solution
+ that is fully supported by the Respondent and removes the University’s
+ administrative burden of software fixes/upgrades, hardware refresh, and
+ technical staffing requirements.
+ This RFP requests that the Respondent provide associated hosting services
+ (Services) for the pre-production (development) and production environments
+ under either a Platform as a Service (PaaS) including Managed Application
+ Services (MAS) or Software as a Service (SaaS) model.
+ Throughout the RFP, references are made to hosting services.
+ It is understood that a SaaS model differs in some ways from a model that
+ includes PaaS and MAS; however, in order to support both models in a single
+ RFP, the use of the term “hosting services” is intended to address both
+ models.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+The University defines these models as: 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• SaaS: software and hardware are centrally hosted and managed in a shared
+ cloud infrastructure and licensed via a subscription model; 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+or 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• PaaS: software and hardware are centrally hosted and managed in a dedicated
+ off-premise infrastructure.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+The software can be licensed through a lump-sum purchase or via a subscription.
+ Respondents should ensure that their proposed offering addresses the various
+ services requested in this RFP.
+ Unique cost schedules should be developed to support each model from a
+ pricing standpo Page 4 of 34 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+2.
+ SCOPE OF WORK
+\end_layout
+
+\begin_layout Standard
+
+\size large
+The University is issuing this RFP for the acquisition of comprehensive
+ Enterprise Resource Planning software, including functionality for Financial
+ Management, Procurement, Human Capital Management, Payroll, and Student
+ Administration.
+ This RFP also requests that the Respondent provide associated hosting services
+ (Services) for the pre-production and production infrastructure under either
+ a Platform as a Service (PaaS) or Software as a Service (SaaS) model.
+ In addition, Respondent proposals must include implementation and training
+ services.
+ Please see RFP Section 14, “Specifications/Scope of Services Requested,”
+ for more detailed information regarding scope.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+3.
+ COSTS 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Respondents must provide detailed/itemized pricing for each individual component
+, and/or the overall University, as listed in the Cost Schedules section
+ of this RFP document.
+ Pricing must be valid for 180 days following the bid response due date
+ and time.
+ The University will not be obligated to pay any costs not identified on
+ the Cost Schedules.
+ By acknowledging this RFP section, the Respondent certifies that any costs
+ not identified by the Respondent, but subsequently incurred in order to
+ achieve successful operation of the service, will be borne by the Respondent.
+ Failure to do so may result in rejection of the bid.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+4.
+ VENDOR REFERENCES 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+The University requires assurance that the offered products function properly,
+ and will verify references supplied by the Respondent.
+ Responders will provide the names of three US universities of similar size
+ (approximately 3,600 students) and similar Carnegie classification (http://carn
+egieclassifications.iu.edu/) to Henderson State University.
+ It is assumed that Respondents will have done sufficient research to understand
+ the University’s profile and mission.
+ The University reserves the right to request or obtain additional information
+ about the vendor references.
+ The University reserves the right to contact or visit any of the Respondent’s
+ current and/or past customers to evaluate the level of performance and
+ customer satisfaction.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+The following information should be provided for each reference: 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+a.
+ Organization Name; 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+b.
+ Organization Description (e.g., Carnegie classification); 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+c.
+ Reference Contact Information: Name, Mailing Address, Phone, E-mail Address
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+d.
+ Number of Employees; 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+e.
+ Student Enrollment (if applicable); 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+5.
+ PRE-PROPOSAL CONFERENCE
+\series default
+\size large
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+There will be no pre-proposal conference for this RFP.
+ Questions about the RFP should be submitted per Section 9.1 below.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+6.
+ RESPONDENTS RESPONSIBILITY TO READ RFP
+\end_layout
+
+\begin_layout Standard
+
+\size large
+It is the Respondent's responsibility to thoroughly examine and read the
+ entire RFP document.
+ Failure of Respondents to acquaint themselves fully with existing conditions
+ or the amount of goods and work involved will not be a basis for requesting
+ extra compensation after the award of a Contract.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+7.
+ PROJECTED TIMETABLE OF ACTIVITIES 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+The following schedule will apply to this RFP, but may change in accordance
+ with the University's needs: 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Monday, April 3, 2017 RFP released to prospective Respondents 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Friday, April 14, 2017 12:00 PM CST - Last date/time questions are accepted
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Friday, April 28, 2017 Proposal submission deadline 12:00 PM CST
+\end_layout
+
+\begin_layout Standard
+
+\size large
+May, 2017 Software Demonstrations/Respondent Presentations
+\end_layout
+
+\begin_layout Standard
+
+\size large
+June, 2017 Notice of Intent to Award 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Upon Award Contract Negotiations Begin (upon intent to award) 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Fall, 2017 Service to Commence
+\end_layout
+
+\begin_layout Standard
+
+\size large
+NOTE: The successful bidder will enter into a Technical/General Services
+ Contract that will require legislative review/approval prior to any work
+ conducted.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+8.
+ CONTRACT TERM AND TERMINATION 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+The term (“Term”) of this contract will be for a period beginning from the
+ date of award.
+ If mutually agreed upon in writing by the Contractor and the University,
+ the University reserves the option to renew this contract on a yearly basis,
+ not to exceed an aggregate total of eighty-four (84) months.
+ The University may terminate this Agreement without cause, at any time
+ during the Term (including any renewal periods) by giving the other party
+ thirty (30) days advance written notice of termination.
+ Additionally, in the event of non-appropriation of funds necessary to fulfill
+ the terms and conditions of this Agreement during any biennium period of
+ the Term (including any renewal periods), the parties agree that this Agreement
+ shall be subject to termination without notice.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+a) If at any time the services become unsatisfactory, the University will
+ give thirty (30) days written notice to the Contractor.
+ If at the end of the thirty (30) day period the services are still deemed
+ unsatisfactory, the contract shall be subject to cancellation by the University.
+ Additionally, the agreement may be terminated, without penalty, by the
+ University without cause by giving thirty (30) days written notice of such
+ termination to the seller.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+b) Upon award, the agreement is subject to cancellation, without penalty,
+ either in whole or in part, if funds are not appropriated.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+c) In no event shall such termination by the University as provided for
+ under this section give rise to any liability on the part of the University
+ including, but not limited to, claims of Respondent for compensation for
+ anticipated profits, unabsorbed overhead, or on borrowing.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+The University’s sole obligation hereunder is to pay Contractor for services
+ ordered and received prior to the date of termination.
+ The terms, conditions, representations, and warranties contained in the
+ agreement shall survive the termination of this contract.
+ 
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\series bold
+\size large
+Annex II
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size largest
+General Terms and Condition 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+1.
+ LEGAL STATUS
+\end_layout
+
+\begin_layout Standard
+
+\size large
+The Contractor shall be considered as having the legal status of an independent
+ contractor vis-à-vis UNDP.
+ The Contractor's personnel and sub-contractors shall not be considered
+ in any respect as being the employees or agents of UNDP or the United Nations.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+2.
+ Project Management Services
+\end_layout
+
+\begin_layout Standard
+
+\size large
+The Respondent shall provide Project Management services involving discovery,
+ planning, design, development, testing, deployment, from project start
+ to project closing, so that all project processes, intermediate milestones,
+ and final deliverables are completed according to preset specifications
+ of time and quality.
+ To this end, the Respondent will provide a general overview of the Project
+ management methodology, and specific to ERP deployment that the Respondent
+ deems essential elements for project success.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+3.
+ Hosting Services 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+The Respondent shall provide hosting services for the pre-production (developmen
+t) and production infrastructure required for the management and operation
+ of the proposed ERP solution and other applications or tools included in
+ the Respondent’s response.
+ The Respondent shall provide a platform with sufficient capacity to handle
+ the University’s needs and maintain all agreed service levels during the
+ term of the contract.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+The ERP software environments shall consist of the environments needed to
+ support the respective delivery model.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+4.
+ SOFTWARE SCOPE 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+The Respondent shall deliver software application and all other licensed
+ business applications that fulfill the University’s business, general and
+ technical requirements, to address the following functional areas: 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Financial Management 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o General Ledger 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Budgetary Control 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Accounts Payable 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Accounts Receivable 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Cash Management 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Cost Accounting/Cost Allocation 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Debt Management 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Grant Management 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Project Accounting 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Asset Management 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Budget Development
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Procurement 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Commodities 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Catalogs and Punch-Out 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Requisitions 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Purchase Orders 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Receiving 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o P-Cards 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Strategic Sourcing 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Vendor Management 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Inventory 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Human Capital Management
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Personnel Administration 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Classification and Compensation 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Position Control 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Benefits Administration
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Employee Relations 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Applicant Services 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Employee Performance 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Learning Management 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Payroll 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Leave Management 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Time and Labor 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Student Administration 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Admissions and Student Recruitment 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Student Records 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Student Accounting 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Financial Aid 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Learning Management 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Advising and Degree Audit 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Student Services 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+o Housing and Dining 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Facility and Event Management 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Reporting and Data Analysis 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+The Respondent shall deliver all products and services required to support
+ the proposed business application software and enable the business processes
+ in the functional areas identified above.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+5.
+ Security
+\series default
+\size default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Respondent should describe the security approach within the ERP.
+ The system shall provide application controls to prevent unauthorized use
+ of the system, maintain University process controls, and log all transactions.
+ In addition, the system shall provide security to limit availability to
+ application functionality, software screens, data records, data elements,
+ and data element values where appropriate.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+This description should address, but is not limited to: 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Single sign-on and ability to integrate with identity management solutions
+ (identify identity management solutions previously integrated, and provide
+ recommendation, if any);
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Data encryption both in transit and at rest (indicate if there is additional
+ cost for encryption of data at rest);
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Any support for third-party data encryption; 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Built-in multi-factor identification capability and/or support for third-party
+ multi-factor authentication; 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Configurability of security;
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Role-based authorizations, including any workflow to automate security
+ provisioning; 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Database access;
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Data privacy; 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Handling classified or confidential data; and 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+• Preservation and auditability of data and changes.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Describe how the system security will limit users to view and update information
+ for only their assigned unit(s) or department(s).
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+How do security definitions apply to report writers, particularly proposed
+ third-party reporting/business intelligence software? 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Describe how security roles are added/removed when changes occur (e.g., user
+ changes department).
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Describe any automation capabilities to streamline the addition or removal
+ of security role when personnel changes occur.
+ Does the solution provide any delivered capability to redact or mask sensitive
+ information in the training environment (e.g., social security number) that
+ was copied from production? 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Describe how the proposed University will provide a detailed audit trail
+ to allow the authorized user to trace the history of all changes in user
+ data or in system configuration.
+ How does the University facilitate the audit of security accounts, roles
+ and access? Are there any system functions that are available within the
+ network that are not available to users outside the network? Can the University
+ support higher-security access from outside the network, such as VPN? 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Describe capabilities to alert administrators of unusual or suspicious changes
+ to data.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Describe the tools, processes or capabilities in the system for archiving
+ data.
+ What do you recommend for an archiving policy for your system? What features
+ or capabilities are delivered with the system to support the storage and
+ retrieval of archived data? Is archived data discoverable during search?
+ How is data validity and integrity assured?
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Describe any capabilities for records retention in the event of a legal
+ hold or litigation.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+6.
+ Data Management Capabilities 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Describe any data management capabilities, including any proposed data cleansing
+, data conversion, and data migration tools.
+ What does the University provide to ensure integrity of converted data,
+ such as enforcement of field rules or business rules, or application of
+ data edits? Describe the tools/accelerators available to support the conversion
+ and migration of data from our current system to the proposed ERP.
+ Are these tools provided with the proposed ERP or from third parties?
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+7.
+ TIME LINE 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Commencement date of the service will be 8 weeks from the date of contract
+ awarded.
+ PROPOSAL SUBMISSION DATE To be announced.
+ ELIGIBILITY CRITERIA The minimum qualifications for bidder are: Must be
+ registered company in Bangladesh having valid trade license/TIN/VAT certificate
+ of respective business; copy of Memorandum of Article (MOA) and Article
+ of Associations should be enclosed with the proposal.
+ Bidder should have experience of completion of 5 projects (minimum) with
+ web based application software development using PHP/MySQL; provide evidence
+ with experience certificate.
+ Bidder should have experience with popular PHP frameworks; mention some
+ framework names that your company has worked with.
+ Note: Those who do not meet the minimum eligibility criteria will not be
+ considered for Technical Evaluation.
+ Note: Bidders are requested to submit necessary documentation in support
+ of the eligibility criteria.
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\series bold
+\size larger
+Annex IV
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size larger
+PROPOSAL SUBMISSION FORM 
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Dear Sir/Madam,
+\end_layout
+
+\begin_layout Standard
+
+\size large
+Having examined the Solicitation Documents, the receipt of which is hereby
+ duly acknowledged, we, the undersigned, offer to provide Professional Consultin
+g services (profession/activity for Project/ Programme/ Office) for the
+ sum as may be ascertained in accordance with the Price Schedule attached
+ herewith and made part of this Proposal.
+ We undertake, if our Proposal is accepted, to commence and complete delivery
+ of all services specified in the contract within the time frame stipulated.
+ We agree to abide by this Proposal for a period of 120 days from the date
+ fixed for opening of Proposals in the Invitation for Proposal, and it shall
+ remain binding upon us and may be accepted at any time before the expiration
+ of that period.
+ We understand that you are not bound to accept any Proposal you may receive.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+Dated this day /month of year 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+B.
+ Signature (In the capacity of) 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+Duly authorized to sign Proposal for and 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+on behalf of 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size large
+Enterprise Resource Planning System (ERP Solution)
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size large
+Issued by:
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size large
+Department Of Computer Science And Engineering,
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size large
+Jahangirnagar University, Savar, Dhaka - 1342 
+\end_layout
+
+\end_body
+\end_document
